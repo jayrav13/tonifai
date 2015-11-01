@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (2.0.2)
+  - CNPPopupController (0.3.1)
+  - SwiftAddressBook (0.5.0)
+  - SwiftyJSON (2.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0.2)
+  - CNPPopupController
+  - SwiftAddressBook
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  CNPPopupController: 67dc2ca5a3f88cd49a27bb1b0aeb78a24d423d79
+  SwiftAddressBook: efdf08a9ba020a8eef927331213ebd13a8e171d1
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+
+COCOAPODS: 0.38.2
